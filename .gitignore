@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+* text=auto
+*.js text eol=lf
+*.vue text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+
